@@ -130,7 +130,10 @@
   <ItemGroup>
     <ClCompile Include="factorial.c" />
     <ClCompile Include="fgets.c" />
+    <ClCompile Include="file.c" />
+    <ClCompile Include="hexadecimal.c" />
     <ClCompile Include="palindrom.c" />
+    <ClCompile Include="pointer.c" />
     <ClCompile Include="reversetext.c" />
     <ClCompile Include="SortIntArr.c" />
   </ItemGroup>
