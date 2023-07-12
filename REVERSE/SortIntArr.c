@@ -1,4 +1,4 @@
-// Sort numbers in array (Least to Great)
+/*// Sort numbers in array (Least to Great)
 
 #include <stdio.h>
 #include<conio.h>
@@ -31,4 +31,4 @@ int main()
     for (int i = 0; i < total; i++) {
         printf("%d ", numbers[i]);
     }
-}
+}*/
